@@ -1,0 +1,3 @@
+C:\Users\Creature\source\repos\Upcoin\Neptune\obj\Debug\Neptune.njsprojAssemblyReference.cache
+C:\Users\Creature\source\repos\Upcoin\Neptune\obj\Debug\Neptune.njsproj.CoreCompileInputs.cache
+C:\Users\Creature\source\repos\Upcoin\Neptune\bin\Microsoft.NodejsTools.WebRole.dll
